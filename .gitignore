@@ -3,3 +3,6 @@
 
 # test file
 test/
+
+# pycache
+tango_with_django_project/__pycache__/

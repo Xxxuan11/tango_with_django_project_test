@@ -1,2 +1,5 @@
 # Mac file index file
 .DS_Store
+
+# test file
+test/
